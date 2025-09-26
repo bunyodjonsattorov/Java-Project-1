@@ -156,10 +156,6 @@ Update the `getTileColor()` method in `App.java` to customize tile colors.
 - Built with the Processing library
 - Uses Gradle for build management
 
-## 📧 Contact
-
-If you have any questions or suggestions, please feel free to open an issue or contact the maintainers.
-
 ---
 
 **Enjoy playing 2048! 🎮**
